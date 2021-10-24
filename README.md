@@ -1,2 +1,2 @@
 # NokiaSnake
-The famous Nokia snake game made using java swing and FlatLaf library (for theming).
+The famous Nokia snake game made using Java Swing and FlatLaf library (for theming).
